@@ -1,0 +1,18 @@
+body {
+    background: url('/images/bg.png') no-repeat center fixed;
+    background-size: cover; 
+}
+
+.drop {
+    padding: 5px;
+    min-width: 150px;
+    border-radius: 4px;
+}
+
+.info_box {
+    background-color: white;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 0 auto;
+    width: 550px;
+}
